@@ -1,0 +1,8 @@
+#repoData{
+    width : 100%;
+    padding-top: 10px;
+}
+
+ th, td {
+    border: 1px solid black;
+  }
